@@ -1,0 +1,26 @@
+.buy-now{
+    background-color:  #000000;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.top-banner{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+}
+
+.top-banner1{
+    background-image: url(img/bg-2.png);
+    background-repeat: no-repeat;
+}
+.top-banner img{
+    height: auto;
+}
+.b1{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+}
+.carousel-indicators{
+    background-color:yellow;
+    
+}
