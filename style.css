@@ -1,8 +1,23 @@
+#banner{
+    margin-bottom: 100px;
+}
+#smart-phone{
+    margin-bottom: 100px;
+}
+#laptop{
+    margin-bottom: 200px;
+}
+#bottom-section{
+    margin-bottom: 100px;
+}
 .buy-now{
     background-color:  #000000;
     color: white;
     padding: 5px 20px;
     border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
 }
 .top-banner{
     background-image: url(img/bg-1.png);
@@ -22,5 +37,52 @@
 }
 .carousel-indicators{
     background-color:yellow;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    align-items: center;
+    align-content: center;
+    size: 100px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.card img{
+    margin-top: 50px;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+
+.alignright {
+	float: right;
+    text-decoration: none;
+    color: #ffbf00;
+}
+.card-text{
+    color:#707070;
+}
+h4{
+    color: #1F1F1F;
+}
+.bottom-section img{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 20px 40px; 
+}
+.divider{
+    width: 30px;
+    height: 5px;
+    background-color: #ffbf00;
+    text-align: right;
+    display: inline-block;
     
 }
