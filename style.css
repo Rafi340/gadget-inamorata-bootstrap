@@ -15,6 +15,7 @@
     color: white;
     padding: 5px 20px;
     border-radius: 10px;
+    border: none;
 }
 .carousel-item{
     padding: 20px 40px;
