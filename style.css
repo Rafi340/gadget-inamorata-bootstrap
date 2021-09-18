@@ -40,6 +40,7 @@
     
 }
 .card{
+    height: 210px;
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
@@ -91,12 +92,39 @@ h4{
     margin-bottom: 40px;
 }
 .divider{
-    width: 30px;
+    position: absolute;
+    margin-left: 580px;
+    margin-top: 10px;
+    width: 90px;
     height: 5px;
     background-color: #ffbf00;
+    border-radius: 10px;
     display: inline-block;
     
 }
 .categories-section{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+}
+.bag-footer{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 120px;
+    z-index: 1;
+}
+.beauty-footer{
+    position: absolute;
+    z-index: 1;
+    margin-top: 220px;
+    margin-left: 120px;
+}
+.shoe-footer{
+    position: absolute;
+    z-index: 1;
+    margin-top: 515px;
+    margin-left: 120px;
+}
+.categories-heading{
+    position: absolute;
+   
+    margin-left: 560px;
 }
